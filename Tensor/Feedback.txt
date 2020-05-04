@@ -1,0 +1,105 @@
+Please provide feedback in the following format: :
+
+********************************************************************
+
+TItle of the presentation 1:
+
+Two merits of the visualizations: Good use of density map, bubble chart is really intuitive.
+
+One limitation of the visualizations: The tile visual  could've been replaced by something else.
+
+********************************************************************
+
+TItle of the presentation 2: 
+
+Two merits of the visualizations: Heatmap is really intuitive, temporal bar makes a good use of heatmap. 
+
+One limitation of the visualizations: other visualizations should've been explored. 
+
+********************************************************************
+
+TItle of the presentation 3:
+
+Two merits of the visualizations: Sankey diagram helps a lot to understand ratio, crime history track is good. 
+
+One limitation of the visualizations: Map of crime hotspots could've been better. 
+
+********************************************************************
+
+TItle of the presentation 4:
+
+Two merits of the visualizations: Price chart, selection of year wise observation. 
+
+One limitation of the visualizations: checkbox.
+
+********************************************************************
+
+TItle of the presentation 5:
+
+Two merits of the visualizations: Domestic, non-domestic crimes, bar chart.
+
+One limitation of the visualizations: Map of different crime hotspots.
+
+********************************************************************
+TItle of the presentation 6:
+
+Two merits of the visualizations: kudos for selecting good topic, the line chart.
+
+One limitation of the visualizations: color coded locations.
+
+
+********************************************************************
+
+TItle of the presentation 7:
+
+Two merits of the visualizations: the age attribute based visual, gender aspect. 	
+
+One limitation of the visualizations: creative visualizations were absent.
+
+********************************************************************
+
+TItle of the presentation 8:
+
+Two merits of the visualizations: Good use of density bubbles, scattergtam. 	
+
+One limitation of the visualizations: cluttered dashboard.
+
+
+********************************************************************
+
+TItle of the presentation 9:
+
+
+Two merits of the visualizations: good choice of dataset, inning-wise wins.
+
+One limitation of the visualizations: more visualization needs to be explored.
+
+
+********************************************************************
+TItle of the presentation 10:
+
+Two merits of the visualizations: Flight information was intuitive, density map.
+
+One limitation of the visualizations: Color coding could've been better.
+
+
+********************************************************************
+TItle of the presentation 11:
+
+Two merits of the visualizations: scatterplot is very intuitive. Bubble chart.
+
+One limitation of the visualizations: more attributes shouldve been used. 
+
+********************************************************************
+
+TItle of the presentation 12:
+
+Two merits of the visualizations: good use of map, great visualization of pollutants.
+
+One limitation of the visualizations: couldnt find one.  
+
+
+
+ 
+
+
